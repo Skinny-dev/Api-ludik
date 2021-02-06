@@ -3,8 +3,6 @@
 
 ## Rutas del api
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
 - http://127.0.0.1:8001/api/v1/player/  (listado total de todos los usarios)
 
 - http://127.0.0.1:8001/api/v1/player/1  (mostramos usarios que jugaron mas veces con valor 1)
