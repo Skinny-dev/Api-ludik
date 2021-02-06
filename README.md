@@ -3,6 +3,8 @@
 
 ## Rutas del api
 
+El proyecto se ejecutra localmente y modificar la variable de entorno en y agregar los accessos de la db
+
 - http://127.0.0.1:8001/api/v1/player/  (listado total de todos los usarios)
 
 - http://127.0.0.1:8001/api/v1/player/1  (mostramos usarios que jugaron mas veces con valor 1)
