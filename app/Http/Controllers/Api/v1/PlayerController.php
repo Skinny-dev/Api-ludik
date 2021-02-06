@@ -13,7 +13,11 @@ class PlayerController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index($acepto)
+    public function index()
+    {
+        return Player::all();
+    }
+    public function getPlayer($acepto)
     {
         return Player::getPlayer($acepto);
     }
